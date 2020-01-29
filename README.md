@@ -15,28 +15,24 @@ See [Auto Reload](https://my.inkdrop.app/plugins/auto-reload) for a plugin based
 
 ---
 
-# Hello World
+# Center On Top plugin for Inkdrop
 
-[![Build Status](https://dev.azure.com/jmerle/inkdrop-hello-world/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-hello-world/_build/latest?definitionId=1&branchName=master)
-[![Latest release)](https://img.shields.io/github/v/release/jmerle/inkdrop-hello-world)](https://my.inkdrop.app/plugins/hello-world)
-[![License](https://img.shields.io/github/license/jmerle/inkdrop-hello-world)](https://github.com/jmerle/inkdrop-hello-world/blob/master/LICENSE)
+[![Build Status](https://dev.azure.com/jmerle/inkdrop-center-on-top/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-center-on-top/_build/latest?definitionId=1&branchName=master)
+[![Latest release)](https://img.shields.io/github/v/release/jmerle/inkdrop-center-on-top)](https://my.inkdrop.app/plugins/center-on-top)
+[![License](https://img.shields.io/github/license/jmerle/inkdrop-center-on-top)](https://github.com/jmerle/inkdrop-center-on-top/blob/master/LICENSE)
 
-Short description about the plugin.
+By default new windows are opened in the center of the primary monitor. This plugin changes that so that new windows open centered on top of the previously focused window, even when that window is not centered on the primary monitor.
 
 ## Install
 
 ```
-ipm install hello-world
+ipm install center-on-top
 ```
-
-## Usage
-
-Plugin usage, supported by screenshots where useful.
 
 ## Changelog
 
-See the [GitHub releases](https://github.com/jmerle/inkdrop-hello-world/releases) for an overview of what changed in each update.
+See the [GitHub releases](https://github.com/jmerle/inkdrop-center-on-top/releases) for an overview of what changed in each update.
 
 ## Contributing
 
-All contributions are welcome. Please read the [Contributing Guide](https://github.com/jmerle/inkdrop-hello-world/blob/master/CONTRIBUTING.md) first as it contains information regarding the tools used by the project and instructions on how to set up a development environment.
+All contributions are welcome. Please read the [Contributing Guide](https://github.com/jmerle/inkdrop-center-on-top/blob/master/CONTRIBUTING.md) first as it contains information regarding the tools used by the project and instructions on how to set up a development environment.

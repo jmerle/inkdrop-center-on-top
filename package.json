@@ -1,8 +1,8 @@
 {
-  "name": "hello-world",
+  "name": "center-on-top",
   "version": "0.0.0",
-  "description": "Hello World plugin description",
-  "repository": "https://github.com/jmerle/inkdrop-hello-world",
+  "description": "Open new windows centered on top of the previously focused window",
+  "repository": "https://github.com/jmerle/inkdrop-center-on-top",
   "license": "MIT",
   "main": "./dist/index",
   "scripts": {
