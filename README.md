@@ -1,6 +1,6 @@
 # Center On Top plugin for Inkdrop
 
-[![Build Status](https://dev.azure.com/jmerle/inkdrop-center-on-top/_apis/build/status/Build?branchName=master)](https://dev.azure.com/jmerle/inkdrop-center-on-top/_build/latest?definitionId=15&branchName=master)
+[![Build Status](https://github.com/jmerle/inkdrop-center-on-top/workflows/Build/badge.svg)](https://github.com/jmerle/inkdrop-center-on-top/actions?query=workflow%3ABuild)
 [![Latest release](https://img.shields.io/github/v/release/jmerle/inkdrop-center-on-top)](https://my.inkdrop.app/plugins/center-on-top)
 [![License](https://img.shields.io/github/license/jmerle/inkdrop-center-on-top)](https://github.com/jmerle/inkdrop-center-on-top/blob/master/LICENSE)
 
